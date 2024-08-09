@@ -15,6 +15,9 @@ A API de Repasses Financeiros é uma solução RESTful desenvolvida com Spring B
 - **Spring Boot 3**
 - **Banco de Dados H2**
 
+##Documentação Swagger
+- http://localhost:8080/swagger-ui.html
+
 ## Endpoints Principais
 - `POST /api/repasses`: Cadastrar um novo repasse.
 - `GET /api/repasses`: Listar todos os repasses.
