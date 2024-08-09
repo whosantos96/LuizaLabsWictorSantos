@@ -25,4 +25,4 @@ A API de Repasses Financeiros é uma solução RESTful desenvolvida com Spring B
 ## Como Executar o Projeto
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone [https://github.com/whosantos96/LuizaLabsWictorSantos]
